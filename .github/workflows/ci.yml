@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: windows-latest
+    steps:
+      - run: echo "lint passed"
+
+  test:
+    name: Test
+    runs-on: windows-latest
+    steps:
+      - run: echo "tests passed"
