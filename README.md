@@ -1,5 +1,5 @@
 [![CI](https://github.com/luniphys/cnc-machine/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphys/cnc-machine/actions/workflows/ci.yml)
-[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
